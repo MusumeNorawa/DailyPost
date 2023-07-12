@@ -10,7 +10,7 @@
 
 ![Mignon](30fcd460d7e56be8ad43862462c6b699.jpg "pour t'encourager")
 
-Règles à respecter :
+1.Règles à respecter :
 * On ne mélange pas les chausettes rouges avec les chausettes bleues
 * Dormir correctement
 
@@ -20,7 +20,7 @@ Ce qui est autorisé :
 
 
 **Citation du jour**
-> Tu peux marcher, donc marche
+> *Tu peux marcher, donc marche*
 
 
 
@@ -38,30 +38,9 @@ Ce qui est autorisé :
 
 
 
-
-
-__c'est__ **comme** *sur* `discord`
-
-Liste à puces imbriquée dans une liste ordonnée:
-
-  1. fruits
-     * pomme
-     * banane
-  2. légumes
-     - carotte
-     - brocoli
-
-Liste à cocher:
- - [ ] Case non cochée
- - [x] Case cochée
 
 Un [lien](http://example.com).
 
-![Image](Icon-pictures.png "icon")
-
-> Markdown utilise les caractères à la manière des emails pour faire des citations en bloc.
->
-> Chacun des paragraphes doivent être précédés par ce caractère.
 
 La plupart des balises <abbr title="Hypertext Markup Language">HTML</abbr> de type « en ligne » sont prises en compte.
 
