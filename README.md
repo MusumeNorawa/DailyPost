@@ -8,7 +8,7 @@
 - [ ] python coding
 - [ ] créer un site avec les gens
 
-![Mignon](30fcd460d7e56be8ad43862462c6b699.jpg"pour t'encourager")
+![Image](30fcd460d7e56be8ad43862462c6b699.jpg"pour t'encourager")
 
 
 
