@@ -26,11 +26,17 @@ Ce qui est autorisé :
 
 
 
-|  Lundi  | Mardi | Mercredi | Jeudi | Vendredi | Samedi | Dimanche |
-|:--------|:-----:|:--------:|:-----:|:--------:|:------:|---------:|
-|  Manger |
-|
-
+|          |  Lundi  | Mardi | Mercredi | Jeudi | Vendredi | Samedi | Dimanche |
+|:---------|:-------:|:-----:|:--------:|:-----:|:--------:|:------:|---------:|
+|  7 : 00  | Dormir  | 
+|  7 : 30  | Manger
+|  8 : 00  | 
+|  8 : 30  | Manger
+|  9 : 00  |
+|  9 : 30  | Manger
+| 10 : 00  |
+| 10 : 30  | Manger
+| 11 : 00  |
 
 
 
