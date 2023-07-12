@@ -10,9 +10,17 @@
 
 ![Mignon](30fcd460d7e56be8ad43862462c6b699.jpg "pour t'encourager")
 
+Règles à respecter :
+* On ne mélange pas les chausettes rouges avec les chausettes bleues
+* Dormir correctement
+
+Ce qui est autorisé :
+- Préférer dormir que manger
+- La bouffe c'est à partager
 
 
-
+**Citation du jour**
+> Tu peux marcher, donc marche
 
 
 
