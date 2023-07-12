@@ -26,9 +26,9 @@ Ce qui est autorisé :
 
 
 
-|          |  Lundi  | Mardi | Mercredi | Jeudi | Vendredi | Samedi | Dimanche |
-|:---------|:-------:|:-----:|:--------:|:-----:|:--------:|:------:|---------:|
-|  7 : 00  | Dormir  | 
+|          |  Lundi  |  Mardi  |  Mercredi  |  Jeudi  |  Vendredi  |  Samedi  |  Dimanche  |
+|:---------|:-------:|:-------:|:--------:|:-----:|:--------:|:------:|---------:|
+|  7 : 00  | Dormir  | Dormir  | Dormir  | Dormir  | Dormir  | Dormir  | Dormir  | 
 |  7 : 30  | Dormir
 |  8 : 00  | Wake up!
 |  8 : 30  | Courir
@@ -54,15 +54,14 @@ Ce qui est autorisé :
 | 18 : 30  |
 | 19 : 00  |
 | 19 : 30  |
-| 20 : 00  |
-| 20 : 30  |
-| 21 : 00  |
+| 20 : 00  | Manger?
+| 20 : 30  | Manger?
+| 21 : 00  | MANGER!
 | 21 : 30  |
 | 22 : 00  |
-| 22 : 30  |
-| 23 : 00  |
+| 22 : 30  | Allemand avant 00 : 00
+| 23 : 00  | Chinois avant 00 : 00
 | 23 : 30  | Python avant 00 : 00
-| 00 : 00  |
 
 
 
