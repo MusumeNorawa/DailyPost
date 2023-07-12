@@ -3,7 +3,12 @@
 
 ![peut-être que notre ciel c'est juste l'océan d'un autre monde](3e2a639e0bf40be923e8d62dc7089494.jpg "coucou, j'ai rien à te dire")
 
+**To do list:**
+- [x] Une page de chinois
+- [ ] python coding
+- [ ] créer un site avec les gens
 
+![Mignon](30fcd460d7e56be8ad43862462c6b699.jpg"pour t'encourager")
 
 
 
