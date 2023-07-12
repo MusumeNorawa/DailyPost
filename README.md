@@ -26,6 +26,8 @@ Ce qui est autorisé :
 
 
 
+| Lundi | Mardi | Mercredi | Jeudi | Vendredi | Samedi | Dimanche |
+|:------|:-----:|:--------:|:-----:|:--------:|:------:|---------:|
 
 
 
